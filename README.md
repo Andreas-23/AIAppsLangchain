@@ -1,5 +1,3 @@
-Got it, let's incorporate that into the readme:
-
 # Create AI-Powered Apps with Open Source LangChain
 
 <p align="center">

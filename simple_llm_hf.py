@@ -3,7 +3,7 @@ import os
 from langchain_community.llms import HuggingFaceEndpoint
 import gradio as gr
 
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "YOUR_API_KEY"
 
 llm = HuggingFaceEndpoint(repo_id="google/flan-ul2")
 
